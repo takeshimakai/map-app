@@ -1,0 +1,40 @@
+.container {
+  position: absolute;
+  z-index: 9999;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(143, 143, 143, 50%);
+}
+
+.modal {
+  position: relative;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  width: 50%;
+}
+
+@media (max-width: 639px) {
+  .modal {
+    width: 90%;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 1279px) {
+  .modal {
+    width: 75%;
+  }
+}
+
+.closeBtn {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  width: 1rem;
+  height: 1rem;
+}

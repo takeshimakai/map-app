@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "author": "chknba",
+    "title": "Pick-up soccer at Jeanne Mance Park",
+    "body": "Turf field at 4pm on Monday. I'll be wearing an orange shirt. Bring your friends. Turf field at 4pm on Monday. I'll be wearing an orange shirt. Bring your friends. Turf field at 4pm on Monday. I'll be wearing an orange shirt. Bring your friends.",
+    "img": "soccer.jpg",
+    "coords": {
+      "lat": "45.516121",
+      "lng": "-73.584945"
+    }
+  },
+  {
+    "id": 2,
+    "author": "pleba",
+    "title": "Free ice cream",
+    "body": "This ice cream place is giving away free ice cream until 6pm.",
+    "img": "ice-cream.jpg",
+    "coords": {
+      "lat": "45.527306",
+      "lng": "-73.580310"
+    }
+  },
+  {
+    "id": 3,
+    "author": "pldamo",
+    "title": "Yard sale today",
+    "body": "All kinds of stuff. Useful to the useless, we have them all.",
+    "img": "yard-sale.jpg",
+    "coords": {
+      "lat": "45.512122",
+      "lng": "-73.609235"
+    }
+  },
+  {
+    "id": 4,
+    "author": "bob",
+    "title": "Live music in the park",
+    "body": "I'll be chilling with my guitar in the park from 12pm. Come hang, bring some beers!",
+    "img": "guitar.jpg",
+    "coords": {
+      "lat": "45.525112",
+      "lng": "-73.567736"
+    }
+  },
+  {
+    "id": 5,
+    "author": "monkeybusiness",
+    "title": "Random thought while taking a dump",
+    "body": "Where am I?",
+    "img": "toilet.jpg",
+    "coords": {
+      "lat": "45.488660",
+      "lng": "-73.594172"
+    }
+  },
+  {
+    "id": 6,
+    "author": "chknba",
+    "title": "Pick-up soccer at Jeanne Mance Park",
+    "body": "Turf field at 4pm on Monday. I'll be wearing an orange shirt. Bring your friends.",
+    "img": "soccer.jpg",
+    "coords": {
+      "lat": "45.516121",
+      "lng": "-73.684945"
+    }
+  },
+  {
+    "id": 7,
+    "author": "pleba",
+    "title": "Free ice cream",
+    "body": "This ice cream place is giving away free ice cream until 6pm.",
+    "img": "ice-cream.jpg",
+    "coords": {
+      "lat": "45.527306",
+      "lng": "-73.680310"
+    }
+  },
+  {
+    "id": 8,
+    "author": "pldamo",
+    "title": "Yard sale today",
+    "body": "All kinds of stuff. Useful to the useless, we have them all.",
+    "img": "yard-sale.jpg",
+    "coords": {
+      "lat": "45.612122",
+      "lng": "-73.609235"
+    }
+  },
+  {
+    "id": 9,
+    "author": "bob",
+    "title": "Live music in the park",
+    "body": "I'll be chilling with my guitar in the park from 12pm. Come hang, bring some beers!",
+    "img": "guitar.jpg",
+    "coords": {
+      "lat": "45.625112",
+      "lng": "-73.567736"
+    }
+  },
+  {
+    "id": 10,
+    "author": "monkeybusiness",
+    "title": "Random thought while taking a dump",
+    "body": "Where am I?",
+    "img": "toilet.jpg",
+    "coords": {
+      "lat": "45.588660",
+      "lng": "-73.594172"
+    }
+  }
+]
